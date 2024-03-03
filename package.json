@@ -1,0 +1,26 @@
+{
+"name": "shimmeringstarryskys",
+"version": "1.0.0",
+"description": "This is a simple JavaScript code snippet that generates a shimmering starry sky effect. It creates an HTML canvas and draws twinkling stars within it.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/bargo781/ShimmeringStarrySky.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "bargo781",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
